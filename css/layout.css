@@ -295,9 +295,13 @@ ul#nav li.current a { color: #F06000; }
   	margin-top: 36px;
    list-style: none;
 }
+.line{
+   border-bottom: 1px solid #E8E8E8;
+   margin-bottom: 50px;
+}
 .bars li {
    position: relative;
-  	margin-bottom: 60px;
+  	margin-bottom: 50px;
   	background: #ccc;
   	height: 42px;
   	border-radius: 3px;

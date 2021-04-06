@@ -139,21 +139,21 @@
 }
 @font-face {
     font-family: "roboto-regular";
-    src: url('fonts/roboto/Roboto-Regular.ttf');
+    src: url('fonts/Font/Aver-opKo.ttf');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: "roboto-bold";
-    src: url('fonts/roboto/Roboto-Bold.ttf');
+    src: url('fonts/Font/AverBold-4YlW.ttf');
 }
 @font-face {
     font-family: "roboto-italic";
-    src: url("fonts/roboto/Roboto-Italic.ttf");
+    src: url("fonts/Font/AverItalic-01yG.ttf");
 }
 @font-face {
     font-family: "roboto-semibold";
-    src: url("fonts/roboto/Roboto-Medium.ttf");
+    src: url("fonts/Font/AverBoldItalic-01yG.ttf");
 }
 
 /*
